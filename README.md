@@ -2,6 +2,14 @@
 
 A responsive registration form built as a freeCodeCamp learning project using HTML and CSS.
 
+## Project origin
+
+<a href="https://www.freecodecamp.org/learn/">
+  <img src="https://raw.githubusercontent.com/matwal42083/myPortfolio/main/src/assets/images/freeCodeCampLogo.jpg" alt="freeCodeCamp logo" width="150">
+</a>
+
+This form was built as part of the freeCodeCamp curriculum.
+
 ## Features
 
 - Collects a user’s name, email address, and password.
